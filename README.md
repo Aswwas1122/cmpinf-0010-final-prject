@@ -5,7 +5,7 @@ Group Members:
  - Akshat Barjatiya - AKB216@pitt.edu
 
 Description:
- - Safety: Using data on criminal activity, arrests, firecarm seizures, fire incidents, and city facilities, we combined these metrics to create a safety score to evaluate which of Pittsburgh's neighborhoods are the safest
+ - Safety: Using data on criminal activity, arrests, firecarm seizures, fire incidents, and city facilities, we combined these metrics to create a safety score to evaluate which of Pittsburgh's neighborhoods are the safest.
  - Accessibility: We used data from Pittsburgh's 311 non-emergency service calls to determine the most accessible neighborhoods in Pittsburgh by finding the neighborhoods with the least number of 311 calls. 
  - Affordabilty: To determine the most affordable neighborhoods in Pittsburgh, we used the data on foreclosures by ward to determine the neighborhoods with the least number of foreclosures.  
 
